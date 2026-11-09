@@ -1,4 +1,4 @@
 # About me
 
-Name: Alon
-Faculty: Chemical Engineering
+Name: Adan and lana and leen
+Faculty: Electrical engineering & CS 
