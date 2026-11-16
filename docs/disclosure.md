@@ -21,3 +21,4 @@ The format, with an example (copy the shape, not the words):
 
 ## My log
 
+- W02 · Claude (claude.ai) · Used for: setup help and a first draft of my project proposal · Checked by: reading each section against my own verification experience and rewriting parts in my own words
